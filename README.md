@@ -3,7 +3,7 @@
 
 In this project I used: 42 API, MVC, Alamofire, SwiftyJSON, SVProgressHUD, ChameleonFramework
 
-User #1               |  Users #2            |  Errors handling
+User #1               |  User #2             |  Errors handling
 :--------------------:|:--------------------:|:--------------------|
 ![](sshiling.gif)     |  ![](oskulska.gif)   |  ![](errors.gif)
 
