@@ -3,9 +3,9 @@
 
 In this project I used: 42 API, MVC, Alamofire, SwiftyJSON, SVProgressHUD, ChameleonFramework
 
-![](sshiling.gif)
-![](oskulska.gif)
-![](errors.gif)
+User #1               |  Users #2            |  Errors handling
+:--------------------:|:--------------------:|:--------------------|
+![](sshiling.gif)     |  ![](oskulska.gif)   |  ![](errors.gif)
 
 ### V.1 Mandatory part
 
