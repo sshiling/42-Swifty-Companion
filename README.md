@@ -7,6 +7,10 @@ User #1               |  User #2             |  Errors handling
 :--------------------:|:--------------------:|:--------------------|
 ![](sshiling.gif)     |  ![](oskulska.gif)   |  ![](errors.gif)
 
+User #1 Landscape Mode |  User #2 Landscape Mode
+:---------------------:|:----------------------:|
+![](nestor_l.gif)      |  ![](sshiling_l.gif)
+
 ### V.1 Mandatory part
 
 • You must have at least 2 Views <br>
