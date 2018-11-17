@@ -29,3 +29,5 @@ User #1 Landscape Mode |  User #2 Landscape Mode
 • Recreate token at expire date <br>
 • Design <br>
 • ... <br>
+
+#### More about School 42 and UNIT Factory you can find here: https://en.wikipedia.org/wiki/42_(school)
